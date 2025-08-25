@@ -1,0 +1,8 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"MK1";"CUI_CMC-4013-SMT";1;"Microphone";;;
+2;"R7,R4,R5,R6";"R_1210_3225Metric";4;"1 k";;;
+3;"D1,D4,D3,D2";"LED_D8.0mm";4;"LED";;;
+4;"Q1,Q4,Q5,Q3,Q2";"TO-92_Inline";5;"BC547";;;
+5;"R1,R3";"R_1210_3225Metric";2;"10k";;;
+6;"R2";"R_1210_3225Metric";1;"1M";;;
+7;"C1";"C_1210_3225Metric";1;"10Dn";;;

@@ -1,0 +1,8 @@
+BPE/script.sh
+BPES/script.sh
+*.out
+**/TEST/
+**/PR/
+**/ENG/
+**/OIP/
+**/Kicad projects/
